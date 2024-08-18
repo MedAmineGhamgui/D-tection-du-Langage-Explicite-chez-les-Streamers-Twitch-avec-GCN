@@ -5,3 +5,6 @@ Ce jeu de données est utilisé pour la classification de nœuds et l'apprentiss
 # Prédiction
 
 Dans ce projet, nous utilisons un réseau de graphes (GCN) implémenté en PyTorch pour prédire si un streamer utilise un langage explicite dans un réseau social de jeux Twitch.
+
+---
+Cette version est développée par Mohamed Amine Ghamgui.
